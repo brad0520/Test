@@ -1,3 +1,3 @@
 # Test
-
-### learnig how to use Git
+***
+Learnig how to use Git
